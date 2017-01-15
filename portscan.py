@@ -1,3 +1,5 @@
+## BY SALAH BADDOU
+## DONT COPY PASTA 
 import socket
 import sys,subprocess,threading
 from threading import Thread
