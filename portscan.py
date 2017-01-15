@@ -1,5 +1,6 @@
 ## BY SALAH BADDOU
 ## DONT COPY PASTA 
+#Root>
 import socket
 import sys,subprocess,threading
 from threading import Thread
@@ -47,8 +48,8 @@ def scantcp(threadName,ip,port_start,port_end,c):
 		sys.exit()
 print '*'*60
 ip=options.host
-port_start=int(raw_input("Enter Start Ports to scan : "))
-port_end=int(raw_input("Enter the end of Ports to scan : "))
+port_start=int(raw_input("Enter The Start Port to scan : "))
+port_end=int(raw_input("Enter The End of Ports to scan : "))
 c=0.5
 print "*"*60
 print 'Starting scan now \n'
