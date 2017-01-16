@@ -5,5 +5,5 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 <h1><b>Usage : </b></h1><br>
 <pre><code> ./portscan.py -H #Host_IP
 </code></pre>
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BY SALAH BADDOU ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<br><br>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>BY SALAH BADDOU</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
