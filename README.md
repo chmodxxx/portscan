@@ -6,4 +6,24 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 <pre><code> ./portscan.py -H #Host_IP
 </code></pre>
 <br><br>
+<h3>Example of execution :</h3>
+
+<pre><code>python portscan.py -H 192.168.1.1
+************************************************************
+Enter Start Ports to scan : 1
+Enter the end of Ports to scan : 100
+************************************************************
+Starting scan now 
+
+Scan started at  2017-01-16 11:39:49.133652
+
+Scanning the host :  192.168.1.1 
+
+[+] Port Open : ----------> 	  21 ( ftp )
+[+] Port Open : ----------> 	  22 ( ssh )
+[+] Port Open : ----------> 	  23 ( telnet )
+[+] Port Open : ----------> 	  80 ( http )
+Finished scan in 0 hours 00 minutes 00.239604 seconds
+
+</code></pre>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>BY SALAH BADDOU</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
