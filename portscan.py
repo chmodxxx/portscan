@@ -62,7 +62,7 @@ t1=datetime.now()
 print "Scan started at ",t1
 print '\nScanning the host : ',ip,'\n'
 tot_port=port_end-port_start
-tot_port_thread=100 #total port handled by one thread
+tot_port_thread=50 #total port handled by one thread
 tnum=tot_port/tot_port_thread #tnum number of threads
 
 if (tot_port%tot_port_thread != 0):
