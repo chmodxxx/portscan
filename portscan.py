@@ -76,7 +76,7 @@ try :
 		thread = myThread("T1",ip,port_start,port_end,c)
 		thread.start()
 		port_start=port_end+1
-	threads.append(thread)
+		threads.append(thread)
 except :
 	print "Problem with starting Thread"
 
