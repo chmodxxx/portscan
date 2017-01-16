@@ -13,6 +13,7 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 ************************************************************
 Enter Start Ports to scan : 1
 Enter the end of Ports to scan : 100</code></pre><pre><code>
+
 ************************************************************
 Starting scan now 
 
@@ -24,6 +25,7 @@ Scanning the host :  192.168.1.1
 [+] Port Open : ----------> 	  22 ( ssh )
 [+] Port Open : ----------> 	  23 ( telnet )
 [+] Port Open : ----------> 	  80 ( http )
+
 Finished scan in 0 hours 00 minutes 00.239604 seconds
 
 </code></pre>
