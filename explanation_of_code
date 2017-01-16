@@ -1,0 +1,12 @@
+<h1><b>Header</b></h1>
+import socket to use socket connection
+import subprocess to clear the shell 
+import datetime to output the time and calculate the time of execution(t2-t1)
+import threading to use multithreading
+import optparse to use the options parser (-H)
+<br>
+<h1><b>Part 1</b></h1>
+The Part 1 is simple , it focuses on the optionparser the first line is a usage example if the args aren't respected, and the 2nd line
+is the definition of the option -H after that we will use the Host IP output using options.host
+<br>
+<h1><b>Part 2</b></h1>
