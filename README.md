@@ -8,10 +8,11 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 <br><br>
 <h3>Example of execution :</h3>
 
-<pre><code>python portscan.py -H 192.168.1.1
+<pre><code>#)python portscan.py -H 192.168.1.1</code></pre>
+<pre><code>
 ************************************************************
 Enter Start Ports to scan : 1
-Enter the end of Ports to scan : 100
+Enter the end of Ports to scan : 100</code></pre><pre><code>
 ************************************************************
 Starting scan now 
 
