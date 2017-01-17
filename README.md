@@ -30,4 +30,4 @@ Finished scan in 0 hours 00 minutes 00.239604 seconds
 </code></pre>
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>BY SALAH BADDOU</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b><font color="gray">BY SALAH BADDOU</font></b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
