@@ -5,6 +5,6 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 <h1><b>Demo : </b></h1><br>
 
 
-          ![alt text](https://github.com/chmodxxx/portscan/blob/master/ezgif.com-2a33c7bf67.gif)
+![alt text](https://github.com/chmodxxx/portscan/blob/master/ezgif.com-2a33c7bf67.gif)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>By BADDOU SALAH</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
