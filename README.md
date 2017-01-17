@@ -29,8 +29,5 @@ Finished scan in 0 hours 00 minutes 00.239604 seconds
 
 </code></pre>
 
-<h2>Explanation of the code :</h2>
-
-<p>You'll need to read the file explanation_of_code and the script comments</p>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>BY SALAH BADDOU</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
