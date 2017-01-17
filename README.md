@@ -9,4 +9,4 @@ Simple Portscanner using multithreading to optimise execution time using TCP soc
 
 <br><br>
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b>By BADDOU SALAH</b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <b><h2>By BADDOU SALAH</h2></b> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
