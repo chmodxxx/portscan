@@ -9,7 +9,7 @@ from threading import Thread
 from datetime import datetime
 from optparse import OptionParser
 
-subprocess.call('clear',shell=True)
+subprocess.call('clear',shell=True) #clear screan
 
 parser = OptionParser(usage="usage: ./portscan.py -H [host] OR --host=IP")
 
